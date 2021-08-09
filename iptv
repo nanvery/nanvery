@@ -49,7 +49,7 @@ rtp://@239.1.1.27:8136
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="NASIONAL",TransTV HD
 rtp://@239.1.1.194:9138
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="Nasional", MNC
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="NASIONAL", MNC
 http://gpc.my.id/vidio/mnc.m3u8
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 
